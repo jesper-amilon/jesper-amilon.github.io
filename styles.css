@@ -431,6 +431,10 @@ h2 {
   line-height: 1.9;
 }
 
+.about-copy > .email {
+  margin-top: -1rem;
+}
+
 .button-light {
   background: #e8ebe3;
   color: var(--ink);
